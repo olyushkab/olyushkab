@@ -4,7 +4,7 @@
 
 - 💼 &nbsp; Working as a Technology Engineer at Amazon, writing scripts and integrating APIs to develop features used as inputs for LLM.
 - 🤔 &nbsp; Exploring new AI technologies and developing software solutions in AWS environment.
-- 🎓 &nbsp; Have bachelor's degree in Finance and Economics, finishing my second degree in Science.
+- 🎓 &nbsp; Have bachelor's degree in Finance and Economics, finishing my second degree in Computer Science.
 - ✍️ &nbsp; Doing photography as a hobby/side hustle, active user of Adobe Photoshop.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
